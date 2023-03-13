@@ -1,2 +1,3 @@
-# githubstudio_2327
-the programming for gameprogramming.
+#gameprogramming
+* 학번
+* 이름 
